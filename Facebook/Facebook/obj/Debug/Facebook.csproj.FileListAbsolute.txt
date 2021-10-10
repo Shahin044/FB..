@@ -1,0 +1,7 @@
+E:\Yeni qovluq\Motored vehicles .Facebook\Facebook\Facebook\obj\Debug\Facebook.csproj.AssemblyReference.cache
+E:\Yeni qovluq\Motored vehicles .Facebook\Facebook\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+E:\Yeni qovluq\Motored vehicles .Facebook\Facebook\Facebook\bin\Debug\Facebook.exe.config
+E:\Yeni qovluq\Motored vehicles .Facebook\Facebook\Facebook\bin\Debug\Facebook.exe
+E:\Yeni qovluq\Motored vehicles .Facebook\Facebook\Facebook\bin\Debug\Facebook.pdb
+E:\Yeni qovluq\Motored vehicles .Facebook\Facebook\Facebook\obj\Debug\Facebook.exe
+E:\Yeni qovluq\Motored vehicles .Facebook\Facebook\Facebook\obj\Debug\Facebook.pdb

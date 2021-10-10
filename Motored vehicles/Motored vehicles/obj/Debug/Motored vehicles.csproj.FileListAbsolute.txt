@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Motored vehicles\Motored vehicles\bin\Debug\Motored vehicles.exe.config
+C:\Users\ACER\source\repos\Motored vehicles\Motored vehicles\bin\Debug\Motored vehicles.exe
+C:\Users\ACER\source\repos\Motored vehicles\Motored vehicles\bin\Debug\Motored vehicles.pdb
+C:\Users\ACER\source\repos\Motored vehicles\Motored vehicles\obj\Debug\Motored vehicles.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Motored vehicles\Motored vehicles\obj\Debug\Motored vehicles.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Motored vehicles\Motored vehicles\obj\Debug\Motored vehicles.exe
+C:\Users\ACER\source\repos\Motored vehicles\Motored vehicles\obj\Debug\Motored vehicles.pdb
+E:\Yeni qovluq\Motored vehicles .Facebook\Motored vehicles\Motored vehicles\bin\Debug\Motored vehicles.exe.config
+E:\Yeni qovluq\Motored vehicles .Facebook\Motored vehicles\Motored vehicles\bin\Debug\Motored vehicles.exe
+E:\Yeni qovluq\Motored vehicles .Facebook\Motored vehicles\Motored vehicles\bin\Debug\Motored vehicles.pdb
+E:\Yeni qovluq\Motored vehicles .Facebook\Motored vehicles\Motored vehicles\obj\Debug\Motored vehicles.csproj.AssemblyReference.cache
+E:\Yeni qovluq\Motored vehicles .Facebook\Motored vehicles\Motored vehicles\obj\Debug\Motored vehicles.csproj.CoreCompileInputs.cache
+E:\Yeni qovluq\Motored vehicles .Facebook\Motored vehicles\Motored vehicles\obj\Debug\Motored vehicles.exe
+E:\Yeni qovluq\Motored vehicles .Facebook\Motored vehicles\Motored vehicles\obj\Debug\Motored vehicles.pdb
